@@ -13,9 +13,8 @@ Inputting npm start will begin running the application.
 ## License
 MIT
 
-## Screenshots
-
 ## Links
-
+https://express-note-taker-csupcoe.herokuapp.com/
+https://github.com/ChanceSupcoe/Note_Taker
 
 
